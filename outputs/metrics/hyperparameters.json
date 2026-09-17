@@ -1,0 +1,10 @@
+{
+  "trend_lengthscale_years": 2.6798431873321533,
+  "seasonal_period_years": 0.9984942078590393,
+  "seasonal_lengthscale": 0.317766934633255,
+  "local_lengthscale_days": 1.8645229190587997,
+  "observation_noise_std_scaled": 0.1381249576807022,
+  "trend_outputscale": 0.1686263382434845,
+  "seasonal_outputscale": 0.9851482510566711,
+  "local_outputscale": 0.07928761094808578
+}

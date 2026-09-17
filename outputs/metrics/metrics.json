@@ -1,0 +1,8 @@
+{
+  "MSE": 9.054550170898438,
+  "RMSE": 3.0090779602560045,
+  "MAE": 2.4019455909729004,
+  "Mean predictive log likelihood (nats)": -2.5893795490264893,
+  "Mean NLPD": 2.5893795490264893,
+  "95% predictive interval coverage": 0.8849557522123894
+}
